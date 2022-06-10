@@ -1,0 +1,56 @@
+.card-content {
+    padding: 28px;
+}
+
+.image_office {
+    background: url("https://thumbs.dreamstime.com/b/business-accounting-team-meeting-room-office-using-pen-pointing-paperwork-finance-concept-business-accounting-team-meeting-154771088.jpg");
+    color: violet;
+    background-blend-mode: luminosity;
+    height: 333px;
+    width: 980px;
+}
+
+section {
+    background: hsl(246deg 38% 16%);
+    color: hsl(200deg 100% 99%);
+    display: flex;
+    height: 333px;
+    font-family: 'Lexend Deca', sans-serif;
+    max-width: 1000px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.card_info {
+    color: rgb(174, 174, 182);
+    font-weight: 200;
+    font-size: 14px;
+    margin-bottom: 36px;
+}
+
+.count_title {
+    color: rgb(174, 174, 182);
+    margin: 5px;
+    font-size: 12px;
+}
+
+.card_soci {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_count {
+    margin: 0;
+}
+
+.insights {
+    color: violet;
+}
+
+body {
+    background-color: black;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
